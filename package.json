@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "mobx": "^5.5.2",
-    "mobx-state-tree": "^3.7.1"
+    "mobx-state-tree": "^3.7.1",
+    "sinon": "^7.1.1"
   },
   "devDependencies": {
     "babel-jest": "^23.6.0",
